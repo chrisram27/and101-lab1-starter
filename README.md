@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-**Android Hunt** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Android Hunt** is an Android app that introduces myself through a personal profile. The app displays my name, a short bio, my top three hobbies, and a profile image.
 
 If I had to describe this project in three (3) emojis, they would be: **💻 ⛳ 🏖️**
 
