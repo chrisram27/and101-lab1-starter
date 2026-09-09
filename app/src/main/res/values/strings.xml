@@ -2,5 +2,14 @@
     <string name="app_name">Android Hunt</string>
 
     <!-- [A] -->
-    <string name="hello_world">Hello World!</string>
+    <string name="profile_picture">Profile Picture</string>
+
+    <string name="hello_world">Christian Ramirez</string>
+
+    <string name="bio">I am a Computer Science student from Texas who enjoys technology, golf, spending time at the beach.</string>
+
+    <string name="hobbies_title">My Hobbies</string>
+    <string name="hobby1">Golf</string>
+    <string name="hobby2">Gaming</string>
+    <string name="hobby3">Going to the beach</string>
 </resources>
